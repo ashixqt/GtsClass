@@ -1,4 +1,6 @@
 #!/usr/bin/ruby
 
+require giantess
+
 AshiesBoots = Giantess.new("Ashleigh", "heel", 30)
 AshiesBoots.NoticeTiny
