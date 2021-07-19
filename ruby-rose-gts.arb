@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 
-require giantess
+require 'giantess'
 
 RubyRose = Giantess.new("Ruby", "boot", 50)
 RubyRose.NoticeTiny
