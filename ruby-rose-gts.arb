@@ -1,0 +1,4 @@
+#!/usr/bin/ruby
+
+RubyRose = Giantess.new("Ruby", "boot", 50)
+RubyRose.NoticeTiny
